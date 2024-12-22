@@ -1,0 +1,2 @@
+D:/CPP/Face/build/CMakeFiles/ALL_BUILD.dir
+D:/CPP/Face/build/CMakeFiles/ZERO_CHECK.dir
